@@ -1,0 +1,21 @@
+<nearThreshold>
+    <val_0>255.000000</val_0>
+</nearThreshold>
+<farThreshold>
+    <val_0>177.083328</val_0>
+</farThreshold>
+<pointSize>
+    <val_0>1.000000</val_0>
+</pointSize>
+<rotateY>
+    <val_0>0.000000</val_0>
+</rotateY>
+<autoRotate>
+    <val_0>0.000000</val_0>
+</autoRotate>
+<drawSceneBox>
+    <val_0>0.000000</val_0>
+</drawSceneBox>
+<drawDebug>
+    <val_0>0.000000</val_0>
+</drawDebug>
